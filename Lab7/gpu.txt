@@ -1,0 +1,43 @@
+Run 1:
+gpu.c took 8.732328 seconds
+Run 2:
+gpu.c took 8.611215 seconds
+Run 3:
+gpu.c took 9.133950 seconds
+Run 4:
+gpu.c took 8.705588 seconds
+Run 5:
+gpu.c took 8.675263 seconds
+Run 6:
+gpu.c took 8.744334 seconds
+Run 7:
+gpu.c took 8.914530 seconds
+Run 8:
+gpu.c took 9.085472 seconds
+Run 9:
+gpu.c took 8.602262 seconds
+Run 10:
+gpu.c took 8.843515 seconds
+Run 11:
+gpu.c took 9.103999 seconds
+Run 12:
+gpu.c took 8.653631 seconds
+Run 13:
+gpu.c took 9.261769 seconds
+Run 14:
+gpu.c took 8.654986 seconds
+Run 15:
+gpu.c took 8.874008 seconds
+Run 16:
+gpu.c took 9.035660 seconds
+Run 17:
+gpu.c took 9.188869 seconds
+Run 18:
+gpu.c took 9.198101 seconds
+Run 19:
+gpu.c took 9.192441 seconds
+Run 20:
+gpu.c took 8.558262 seconds
+
+
+avg = 8.8885 stddev = 0.2334
